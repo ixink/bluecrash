@@ -12,7 +12,6 @@ ______________________________________________
 def run_apt_up():
     try:
         subprocess.run(["sudo", "apt", "install", "bluetooth"], check=True)
-        subprocess.run(["sudo", "apt", "install", "bluetoothctl"], check=True)
         subprocess.run(["sudo", "apt", "update"], check=True)
         print("Installed!")
     except subprocess.CalledProcessError:
