@@ -1,5 +1,8 @@
 "Welcome! Bluecrash"
 
+
+It's a Bluetooth Jammer.
+
                           coded by:ixink(Rayhan Ahmed)
            contact me:linkedin.com/in/rayhan-ahmed-uiu
 
