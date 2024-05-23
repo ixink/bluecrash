@@ -23,6 +23,8 @@ Installation:
 
 Run:
 ------
+    cd bluecrash
+    ls
     python3 bluecrash.py
 
 
